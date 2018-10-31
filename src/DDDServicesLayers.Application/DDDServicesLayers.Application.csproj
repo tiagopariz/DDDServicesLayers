@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\DDDServicesLayers.Domain\DDDServicesLayers.Domain.csproj" />
+    <ProjectReference Include="..\DDDServicesLayers.Infra.Messages\DDDServicesLayers.Infra.Messages.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>
