@@ -1,7 +1,7 @@
 ﻿using System;
 using DDDServicesLayers.Domain.Entities;
 using DDDServicesLayers.Domain.Services;
-using DDDServicesLayers.Infra.Messages.MessagesServices;
+using DDDServicesLayers.Infra.Messages.MessageServices;
 
 namespace DDDServicesLayers.Application.AppServices
 {

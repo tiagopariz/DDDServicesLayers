@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace DDDServicesLayers.Infra.Messages.MessagesServices
+namespace DDDServicesLayers.Infra.Messages.MessageServices
 {
     public class EmailService
     {
